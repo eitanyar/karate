@@ -1,2 +1,9 @@
-const nextConfig = { output: "export", images: { unoptimized: true }, devIndicators: false, outputFileTracingRoot: process.cwd(), allowedDevOrigins: ["100.102.160.114"] };
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  output: 'export',
+  images: {
+    unoptimized: true,
+  },
+};
+
 export default nextConfig;
