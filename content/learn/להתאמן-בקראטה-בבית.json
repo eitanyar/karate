@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "route": "/learn/להתאמן-בקראטה-בבית/",
+  "metadata": {
+    "title": "להתאמן בקראטה בבית | SKSU",
+    "description": "איך מתאמנים בקראטה בבית נכון: מקום ייעודי, שעה קבועה וקצרה, תרגול הבסיס מהשיעור האחרון, מראה לבדיקת טכניקה — והגבולות שכדאי לשמור בתרגול עצמי.",
+    "canonical": "/learn/להתאמן-בקראטה-בבית/"
+  },
+  "titleAnchor": "להתאמן בקראטה בבית -",
+  "h1": "להתאמן בקראטה בבית",
+  "breadcrumbs": [
+    { "label": "דף הבית", "href": "/" },
+    { "label": "מרכז הלמידה", "href": "/learn/" },
+    { "label": "להתאמן בקראטה בבית", "href": "/learn/להתאמן-בקראטה-בבית/" }
+  ],
+  "intro": "השיעור בדוג'ו הוא הלב של האימון — אבל חזרה ותרגול הם המפתח להתקדמות בכל דבר, ובקראטה זה נכון כפליים. תרגול ביתי מאפשר לך לעבוד על הדברים שאתה יודע שאתה צריך לשפר, ולעבד את החומר שנלמד בכל שבוע. הנה איך עושים את זה נכון.",
+  "sections": [
+    {
+      "heading": "בסיס לתרגול ביתי טוב",
+      "body": [],
+      "list": [
+        "מצא מקום — לא צריך הרבה: פינה פנויה של כמה מטרים, רצפה יציבה ומספיק מקום לפסיעה קדימה ואחורה בלי מכשולים.",
+        "קבע זמן קבוע — עדיפות קצרה ותכופה על אימון ארוך ומדי פעם. שעה קבועה ביום, בלי הסחות, הופכת את התרגול להרגל.",
+        "חזור על מה שלמדת — התחל מהטכניקות והקטעים מהשיעור האחרון: הקיהון, חלקים מהקאטה הנוכחית. אל תרוץ קדימה לחומר שלא עברת בשיעור.",
+        "השתמש במראה — מול מראה קל לראות אם העמידה יציבה, אם הידיים חוזרות למקום ואם התנועה נשארת נקייה.",
+        "התחל בחימום וסיים בשחרור — כמו בשיעור: כמה דקות חימום לפני, ומתיחות קלות בסוף.",
+        "שמור על שליטה — תרגול עצמי עושים לאט ומדויק, בלי מהירות מלאה ובלי 'קיצורי דרך' טכניים; את העוצמה והקצב משאירים לאימון עם המדריך ובן הזוג."
+      ]
+    },
+    {
+      "heading": "מה תרגול ביתי לא מחליף",
+      "body": [
+        "תרגול בבית מחזק את מה שלומדים בדוג'ו — אבל הוא לא מחליף את השיעור עצמו: את התיקונים של המדריך, את העבודה מול בן זוג ואת המשמעת של האימון המשותף. ספרים וסרטונים יכולים לעזור, אבל אין חכם כבעל ניסיון — הדרך הכי טובה ללמוד היא עם מורה שרואה אותך ונותן ביקורת בונה.",
+        "רוצה מסגרת שתתמוך בתרגול שלך? אתה מוזמן לשיעור ניסיון ללא עלות בדוג'ו בראשון לציון."
+      ]
+    }
+  ],
+  "relatedLinks": [
+    { "label": "מרכז הלמידה", "href": "/learn/" },
+    { "label": "איך לגרום לילד לתרגל קראטה בבית- 3 טיפים מנצחים", "href": "/learn/make-your-kid-practice-karate-at-home/" },
+    { "label": "קיהון", "href": "/kihon/" },
+    { "label": "צרו קשר", "href": "/contact/" }
+  ],
+  "cta": { "label": "לתיאום שיעור ניסיון ללא עלות", "href": "/contact/" },
+  "_sourceNotes": "PARTIAL RECOVERY — OWNER REVIEW REQUIRED: the archived capture WB:20200813082800 contains the verified title/H1 'להתאמן בקראטה בבית' but NO article body: the Elementor theme-post-content widget in that capture held only an injected third-party iframe ('_vs-player', swiftcdn/fastly) covering the original text, so the historical body is unrecoverable from this source. Per brief §Validation, the record is created because the recovered anchor and intent ('home karate practice guidance') are known, and claims are kept minimal. Every practice point in the body is grounded ONLY in other recovered SKSU articles from the same archive: home-practice value and 'no shortcuts / teacher feedback' (10-tips-to-get-a-black-belt, tips 6–7), the fixed daily slot and small-space sizing (make-your-kid-practice-karate-at-home, tips 1–2), warm-up/cool-down and kihon/kata structure (8-elements-in-karate-lessons, elements 2–4). No invented techniques, durations, medical, or results claims. The route uses the exact Unicode Hebrew slug; percent-encoded requests identify the same canonical URL. Sibling link points to the child-oriented home-practice article per the accepted graph; titleAnchor preserves the archived <title> with dangling ' -'; metadata.title appends documented '| SKSU'."
+}

@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "route": "/learn/what-is-karate/",
+  "metadata": {
+    "title": "אז מה זה בעצם קראטה? | SKSU",
+    "description": "מכות ובעיטות? שינון קאטות? הגנה עצמית? או דרך לשיפור עצמי? מה באמת עומד מאחורי המילה קראטה — ולמה התשובה תלויה גם במה שאתה עושה איתה.",
+    "canonical": "/learn/what-is-karate/"
+  },
+  "titleAnchor": "אז מה זה בעצם קראטה? -",
+  "h1": "אז מה זה בעצם קראטה?",
+  "breadcrumbs": [
+    { "label": "דף הבית", "href": "/" },
+    { "label": "מרכז הלמידה", "href": "/learn/" },
+    { "label": "אז מה זה בעצם קראטה?", "href": "/learn/what-is-karate/" }
+  ],
+  "intro": "על פניו זו נראית כמו שאלה תמימה שקל לענות עליה. אבל האמת היא שלא קל לענות עליה כלל, כי יש כל כך הרבה תשובות, בכל כך הרבה רמות: האם מדובר במכות, בעיטות וחסימות? בשינון קאטות? בהגנה עצמית? בכושר גופני? או במילים כמו משמעת עצמית, ביטחון עצמי והערכה עצמית?",
+  "sections": [
+    {
+      "heading": "התשובות משלימות זו את זו",
+      "body": [
+        "רבים כבר ניסו לענות על השאלה וגילו שהתשובות לא רק רבות, אלא גם משלימות אחת את השנייה. על פי המסורת של אמנויות הלחימה, המטרה בקראטה היא שיפור עצמי: פיתוח האופי, יושר וכנות, דבקות במטרה, חוסן נפשי, נימוס ומשמעת — וחיפוש הדרך לממש את הפוטנציאל שלך בחיים.",
+        "אם תשאל חדר מלא תלמידי קראטה, תקבל את כל התשובות האלה ועוד כמה. הנקודה היא שקראטה הוא כל הדברים האלה — ואף אחד מהם — בו זמנית. הכל תלוי במי ששואלים. ויש הבדל בין מה שאנשים עושים לבין מה שהם אומרים: מי שמדבר על משמעת וריכוז אך פועל בחוסר כבוד ובאימפולסיביות — כנראה לא מדבר בכנות."
+      ]
+    },
+    {
+      "heading": "אז מה המהות של קראטה?",
+      "body": [
+        "זה תלוי בך ובמה שאתה עושה עם זה. זה יכול להיות תחביב מאתגר, פעילות משפחתית, אימון ספורטיבי שתורם לכושר — או מסע לכל החיים, שבו אתה מרוויח מהיכולות המולדות שלך ומשפר בהדרגה גם את נקודות החולשה, דרך תרגול מתמיד.",
+        "שיפור עצמי לא אומר שלא טועים אף פעם. מה שהכי חשוב הוא המודעות העצמית: תרגול מתמיד של קראטה אמור לאפשר לנו להביט בעצמנו במראה ולראות את כל מה שיפה — וגם את מה שפחות. בהדרגה, דרך מאמץ ממושך והיכרות עם עצמנו, התרגול יכול לתרום לביטחון העצמי ולריכוז גם בחיי היומיום. אמנות הקראטה אינה שלמה ומושלמת בפני עצמה, אבל היא נותנת כלים לעבוד על המטרה הזו."
+      ]
+    },
+    {
+      "heading": "רוצה לראות איך זה נראה בפועל?",
+      "body": [
+        "הדרך הטובה ביותר להבין מה זה קראטה היא לעלות על המזרן. אתה מוזמן לקרוא עוד במרכז הלמידה, להתרשם מדפי האימון שלנו — ולתאם שיעור ניסיון ללא עלות בדוג'ו בראשון לציון."
+      ]
+    }
+  ],
+  "relatedLinks": [
+    { "label": "מרכז הלמידה", "href": "/learn/" },
+    { "label": "למה כל כך חשוב ללמוד את הבסיס בקראטה?", "href": "/learn/why-learn-the-basics/" },
+    { "label": "קיהון", "href": "/kihon/" },
+    { "label": "צרו קשר", "href": "/contact/" }
+  ],
+  "cta": { "label": "לתיאום שיעור ניסיון ללא עלות", "href": "/contact/" },
+  "_sourceNotes": "Substance condensed from recovered WB:20200813073852: the question framing, the tradition's self-improvement answer, the honesty gap example, and the lifetime-journey/self-awareness conclusion are preserved; the McDonald's-after-class example was trimmed. titleAnchor preserves the archived <title> exactly including the dangling ' -' site-name suffix; metadata.title drops it and appends documented '| SKSU'. Omitted as unsupported/changed context: first-person author biography voice ('כמוני'), the free-guide download CTA ('10 סיבות ללמוד קראטה' as downloadable guide) — replaced by internal links per the accepted link graph, and the archived sidebar contact forms. No health, result, or guarantee claims added."
+}

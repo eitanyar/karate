@@ -1,0 +1,14 @@
+{
+  "url": "http://100.102.160.114:3000",
+  "capturedAt": "2026-09-12T20:05:39+07:00",
+  "method": "local headless Chrome screenshot capture",
+  "viewports": [
+    { "name": "desktop", "width": 1440, "height": 900, "screenshotCount": 23 },
+    { "name": "mobile", "width": 390, "height": 844, "screenshotCount": 23 }
+  ],
+  "routes": [
+    "/", "/why-us/", "/kihon/", "/kata/", "/komita/", "/self-defense-exercise/", "/karate-in-rishon-le-zion/", "/learn/",
+    "/learn/10-reasons-to-learn-karate/", "/learn/10-tips-to-get-a-black-belt/", "/learn/8-elements-in-karate-lessons/", "/learn/choosing-the-wrong-martial-art/", "/learn/develop-discipline/", "/learn/does-karate-suite-your-family/", "/learn/how-long-a-black-belt-takes/", "/learn/how-to-choose-karate-studio/", "/learn/make-your-kid-practice-karate-at-home/", "/learn/what-is-karate/", "/learn/what-to-notice-in-karate-lessons/", "/learn/why-learn-the-basics/", "/contact/", "/privacy", "/accessibility"
+  ],
+  "httpVerification": "All 23 routes returned HTTP 200 after following canonical redirects."
+}

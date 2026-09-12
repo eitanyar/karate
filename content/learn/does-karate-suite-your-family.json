@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "route": "/learn/does-karate-suite-your-family/",
+  "metadata": {
+    "title": "האם קראטה הוא הבחירה הנכונה עבור המשפחה שלך? | SKSU",
+    "description": "משפחה שמתאמנת ביחד — מה באמת נותן אימון קראטה משפחתי: פעילות גופנית לכל גיל, הגנה עצמית מעשית, תוכן פרוגרסיבי שמאתגר ולא משעמם, וזמן איכות שמייצר שיח בבית.",
+    "canonical": "/learn/does-karate-suite-your-family/"
+  },
+  "titleAnchor": "האם קראטה הוא הבחירה הנכונה עבור המשפחה שלך? -",
+  "h1": "האם קראטה הוא הבחירה הנכונה עבור המשפחה שלך?",
+  "breadcrumbs": [
+    { "label": "דף הבית", "href": "/" },
+    { "label": "מרכז הלמידה", "href": "/learn/" },
+    { "label": "האם קראטה הוא הבחירה הנכונה עבור המשפחה שלך?", "href": "/learn/does-karate-suite-your-family/" }
+  ],
+  "intro": "כמו כל הורה טוב, אתה נהנה לבלות עם הילדים ולעשות איתם פעילויות מעניינות. ובכל זאת — כמה הזדמנויות יש לכל המשפחה להשתתף יחד בפעילות שמועילה ומאתגרת את כל המשתתפים? יש משפט בתעשיית אמנויות הלחימה: 'משפחה שמתאמנת ביחד, נשארת ביחד'. זה נשמע קצת נדוש, אבל יותר ויותר משפחות מגלות את היתרונות שבפעילות משותפת בין הורים לילדים.",
+  "sections": [
+    {
+      "heading": "פעילות גופנית נהדרת",
+      "body": [
+        "אימון קראטה הוא דרך מצוינת לשמור על הכושר הגופני. בכל שיעור מפעילים קבוצות שרירים בדרכים מגוונות — מהחימום והשחרור, דרך הטכניקות הנלמדות ועד העבודה עם בן הזוג. האימון משלב תנועה מגוונת התורמת לכושר הגופני, והתרגול עצמו פרוגרסיבי ומתאים למתאמנים בהתאם ליכולתם האישית."
+      ]
+    },
+    {
+      "heading": "דרך מעשית ללמוד הגנה עצמית",
+      "body": [
+        "הגנה עצמית היא חלק בלתי נפרד מאמנויות הלחימה. אמנויות שונות שמות דגש משתנה על ההגנה העצמית, אבל האימונים מלמדים בצורה מעשית איך להגן על עצמך — בהתאם לגילך וליכולת שלך."
+      ]
+    },
+    {
+      "heading": "תוכן שמאתגר ולא משעמם",
+      "body": [
+        "ככל שהיכולת משתפרת וצוברים ניסיון, נחשפים לתכנים מאתגרים יותר. תמיד יש משהו חדש ללמוד ותמיד יש איך להשתפר: התלמיד נחשף לתוכן פרוגרסיבי בשיטתיות — כך שהוא לא מתייאש בהתחלה, אבל גם לא משתעמם ברמות המתקדמות."
+      ]
+    },
+    {
+      "heading": "זמן איכות עם ערך מוסף",
+      "body": [
+        "יש באמנויות הלחימה גם ערך פילוסופי, שמיטיב עם ילדים ועם מבוגרים כאחד — ומשפחה שמתאמנת ביחד מרוויחה בדרך המון נושאי שיחה מעניינים. כשאבא, אמא, אחים ואחיות מתאמנים ביחד, כל אחד רואה את הפעילות מנקודת המבט של האחר — ונוצר שיח שמקדם תקשורת טובה בבית.",
+        "כמו כל דבר, אימון משפחתי לא יהיה חף מאתגרים. אבל באופן כללי, אם תגיע לבית הספר המקומי לאמנויות לחימה — אימון כזה יכול לתרום רבות לכושר ולזמן איכות משותף. רוצה לבדוק אם זה מתאים למשפחה שלך? קרא איך בוחרים דוג'ו בשלושה צעדים פשוטים, ובוא לשיעור ניסיון ללא עלות בראשון לציון."
+      ]
+    }
+  ],
+  "relatedLinks": [
+    { "label": "מרכז הלמידה", "href": "/learn/" },
+    { "label": "כך תבחר דוג'ו לקראטה בשלושה צעדים פשוטים", "href": "/learn/how-to-choose-karate-studio/" },
+    { "label": "הדוג'ו בראשון לציון", "href": "/karate-in-rishon-le-zion" },
+    { "label": "צרו קשר", "href": "/contact/" }
+  ],
+  "cta": { "label": "לתיאום שיעור ניסיון ללא עלות", "href": "/contact/" },
+  "_sourceNotes": "Substance condensed from recovered WB:20200813084520: all four recovered aspects preserved (physical activity, practical self-defense, progressive content, philosophy/family communication), including the 'אתגרים' caveat. The family-programme availability of SKSU today is NOT confirmed (report §6) — copy therefore discusses family karate training in general and invites a trial lesson without claiming a specific family programme, age group, or joint class exists. The closing cross-reference to the studio-choice guide is preserved as the sibling link; the free-guide download CTA and the 'ספרו לנו את הסיפורים שלכם' user-story invitation were removed (no verified story-collection channel). One source typo normalized: מותאם→מותאם. titleAnchor preserves archived <title> with dangling ' -'; metadata.title appends documented '| SKSU'."
+}

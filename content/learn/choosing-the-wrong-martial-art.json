@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "route": "/learn/choosing-the-wrong-martial-art/",
+  "metadata": {
+    "title": "מחיר הבחירה באמנות הלחימה שאינה מתאימה לילד | SKSU",
+    "description": "פופולריות, מחיר או פרסומת יפה — ארבע מלכודות נפוצות בבחירת אמנות לחימה לילד, ואיך בוחרים סגנון ומועדון שמתאימים באמת לחוזקות ולערכים שלכם.",
+    "canonical": "/learn/choosing-the-wrong-martial-art/"
+  },
+  "titleAnchor": "מחיר הבחירה באמנות הלחימה שאינה מתאימה לילד -",
+  "h1": "מחיר הבחירה באמנות הלחימה שאינה מתאימה לילד",
+  "breadcrumbs": [
+    { "label": "דף הבית", "href": "/" },
+    { "label": "מרכז הלמידה", "href": "/learn/" },
+    { "label": "מחיר הבחירה באמנות הלחימה שאינה מתאימה לילד", "href": "/learn/choosing-the-wrong-martial-art/" }
+  ],
+  "intro": "הרבה אנשים מתחילים ללמוד אמנויות לחימה מבלי לבדוק איזה סגנון מלמד המכון שבחרו עבורם או עבור ילדיהם. להרבה בתי ספר אין סגנון מובחן וברור — כל מורה מלמד בדרך הייחודית לו, ובתי ספר רבים מלמדים בשיטות מעורבות. האם האבחנות האלה חשובות? התשובה היא כן ולא: לבחירה בסגנון שלא מתאים לך יכולות להיות משמעויות נסתרות.",
+  "sections": [
+    {
+      "heading": "בחירה בגלל פופולריות — ולא בגלל התאמה",
+      "body": [
+        "זה שמשהו פופולרי לא אומר שהוא מתאים לך. טאיקוואנדו, למשל, היה טרנד חם בקרב מתאמנים צעירים בזכות האופי הדינמי והבעיטות המרשימות. אם אתה אתלטי וגמיש — אולי זה מתאים לך; אבל אם יש לך כאבי ברכיים, אולי כדאי לשקול אמנות לחימה רכה יותר, כמו טאי צ'י.",
+        "גל ה-MMA בשנים האחרונות מושך קהל צופים עצום, וצעירים רבים רוצים לתפוס טרמפ על 'הדבר החם'. אבל אם חשוב לך לשמור על האף ישר ועל האוזניים שלמות — שווה לחשוב פעמיים.",
+        "בשורה התחתונה: כדאי למצוא אמנות לחימה שמתאימה לחוזקות שלך — לא כזו שנלחמת בחולשות שלך."
+      ]
+    },
+    {
+      "heading": "בחירה שערכיה לא מתיישבים עם האמונות שלך",
+      "body": [
+        "רוב אמנויות הלחימה מגיעות עם 'מטען' של מסורת — טקסים ומנהגים שלפעמים עלולים להרגיש לא נוחים. מניסיון, רוב המתאמנים פשוט זורמים עם זה ומקבלים את הערך המוסף שמאחורי הטקס; בהרבה מועדונים דווקא בוחרים שלא להיכנס לעובי הקורה של הפולחן, כדי להתאים את אמנות הלחימה לתרבות המקומית.",
+        "ועדיין — אם אתה מרגיש שאתה מתפשר על הערכים שלך, שווה לבדוק את הפילוסופיה של אמנות הלחימה לפני שאתה מתחייב. זה לא פקטור בעייתי אצל רוב האנשים, אבל לא מזיק לבדוק."
+      ]
+    },
+    {
+      "heading": "בחירה לפי מחיר או פרסומת — במקום לפי איכות",
+      "body": [
+        "תעשיית אמנויות הלחימה היא תחום פרוץ — אין רגולציה או סטנדרטים ברורים למה נחשב בית ספר טוב או רע. רוב האנשים מניחים שככל שהאימון יקר יותר הוא טוב יותר. לפעמים זה נכון — ולפעמים אפשר למצוא מורה נהדר גם במתנ\"ס השכונתי. מועדונים יקרים בדרך כלל יציעו תשתיות ושירות מצוינים, אבל הקריטריון העיקרי צריך להיות האיכות, לא המחיר.",
+        "אותו דבר נכון לגבי פרסומות: פרסום יפה אומר שלבית הספר יש אנשי שיווק טובים — לא שהוא מתאים לך. התקשר, בקר בכמה בתי ספר לפני שאתה בוחר, וחפש המלצות של מתאמנים על הדוג'ו ועל המדריך בפרט.",
+        "הלקח: לפני שמתחילים ללמוד אמנות לחימה, עושים מחקר מקדים. לעתים קרובות העיסוק באמנות לחימה מלווה אותך כל החיים — וחבל להשקיע שנים במשהו שלא מתאים לך. אם בחרת בשיטה, כדאי לבחור במועדון ותיק עם מדריכים בעלי ניסיון מוכח."
+      ]
+    }
+  ],
+  "relatedLinks": [
+    { "label": "מרכז הלמידה", "href": "/learn/" },
+    { "label": "למה לשים לב במדריך או מועדון קראטה?", "href": "/learn/what-to-notice-in-karate-lessons/" },
+    { "label": "הדוג'ו בראשון לציון", "href": "/karate-in-rishon-le-zion" },
+    { "label": "צרו קשר", "href": "/contact/" }
+  ],
+  "cta": { "label": "לתיאום שיעור ניסיון ללא עלות", "href": "/contact/" },
+  "_sourceNotes": "Substance condensed from recovered WB:20200813091257: all four recovered pitfalls preserved (popularity vs fit, values mismatch, price vs quality, advertising vs quality), tightened. Omitted as stale/self-referential and unverifiable: the 'טאי בו'/Billy Banks trend anecdote (dated fad), the author's first-person bio ('כיום, בדרגת דאן 2 אני מדריך בסניפים בראשל\"צ וחולון') — Holon branch is bindingly inactive and the instructor identity/rank in the archive conflicts with confirmed facts (Arie Nikar; credentials unconfirmed per report §6), the generic closing 'אם כבר בחרת בשיטה, בחר בשיטה מבוססת עם הכרה לאומית ומדריכים מוסמכים מטעם רשות הספורט' kept in generalized form without naming SKSU recognition claims (unconfirmed), and the links to 'קראטה בחולון'. Closing cross-reference preserved as sibling link to what-to-notice-in-karate-lessons; '/karate-in-rishon-le-zion' used as the contextual location route (accepted graph: one sibling article + one training/location route + /contact/). Title says 'לילד' per the historic anchor; body keeps the source's mixed child/adult framing without adding child-development claims."
+}

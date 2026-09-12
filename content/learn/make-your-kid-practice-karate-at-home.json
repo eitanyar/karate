@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "route": "/learn/make-your-kid-practice-karate-at-home/",
+  "metadata": {
+    "title": "איך לגרום לילד לתרגל קראטה בבית- 3 טיפים מנצחים | SKSU",
+    "description": "שלושה טיפים להורים שרוצים שהילד יתרגל קראטה גם בבית בלי שחיקה: פינת תרגול ייעודית, שעה קבועה וקצרה ביום, ומערכת תגמול שמעודדת התמדה.",
+    "canonical": "/learn/make-your-kid-practice-karate-at-home/"
+  },
+  "titleAnchor": "איך לגרום לילד לתרגל קראטה בבית- 3 טיפים מנצחים -",
+  "h1": "איך לגרום לילד לתרגל קראטה בבית- 3 טיפים מנצחים",
+  "breadcrumbs": [
+    { "label": "דף הבית", "href": "/" },
+    { "label": "מרכז הלמידה", "href": "/learn/" },
+    { "label": "איך לגרום לילד לתרגל קראטה בבית- 3 טיפים מנצחים", "href": "/learn/make-your-kid-practice-karate-at-home/" }
+  ],
+  "intro": "אז הילד נרשם לחוג קראטה? ברכותינו — זה רק הצעד הראשון לקראת צמיחה והתפתחות אישית. עם זאת, שמת לב שתרגול קראטה לא קל כמו שזה נראה, ואתה רוצה שהילד יתרגל גם בבית, כמו שהמדריך מבקש. איך עושים את זה מבלי לשחוק את הילד — ואת עצמך? הנה שלושה טיפים פשוטים.",
+  "sections": [
+    {
+      "heading": "1. צור אזור מיוחד לתרגול בבית",
+      "body": [
+        "בין אם אתה גר בבית מרווח או בדירה, השתדל לייעד פינה שבה הילד יוכל לנוע בחופשיות. החדשות הטובות: לא צריך הרבה מקום כדי לתרגל קראטה. שטח של כשלושה על שלושה מטרים יספיק בהחלט, ואם מתרגלים בצורה יצירתית — אפשר להסתדר גם בפחות."
+      ]
+    },
+    {
+      "heading": "2. קבעו שעה קבועה ביום לתרגול",
+      "body": [
+        "כדי להשיג את המטרות שלו, הילד צריך לתרגל בקביעות. כשבונים לו\"ז אימונים עם הילד, כדאי להחליט על שעה קבועה שבה אין לימודים, חוגים או תכניות אחרות.",
+        "נקודה חשובה: כמה זמן לתרגל בכל יום? שעה שלמה זה יותר מדי לרוב הילדים — זה רק יגרום תסכול ושחיקה. אנחנו ממליצים על לא יותר מעשרים דקות ביום. אפשר להספיק הרבה בעשרים דקות. תכנית קבועה תסייע לילד לבנות הרגלי אימון טובים."
+      ]
+    },
+    {
+      "heading": "3. תגמל את הילד על עמידה בתכנית האימונים",
+      "body": [
+        "עידוד ומילה טובה מההורים מעניקים לילד מוטיבציה רבה להמשיך. עם זאת, לא יזיק לעודד גם באמצעים מוחשיים: פרס על תרגול קבוע יכול להיות צפייה בתכנית אהובה, משחק מחשב, או פטור ממטלה — ובלבד שיתרגל לבד יום-יום במשך שבוע שלם. רעיונות מחוץ לקופסה: ספר על קראטה, או ציוד תרגול שידרבן אותו להתאמן עוד.",
+        "אתה מכיר את הילד שלך הכי טוב ויודע מה יניע אותו לפעולה. אם תתכנן מערכת תגמול קבועה ללו\"ז התרגולים — יהיה לילד הרבה יותר קל להתמיד לאורך זמן. כדאי גם להעלות את הלו\"ז על כתב, רצוי בטבלה עם צבעים ברורים: ילדים אוהבים שיש להם מסגרת ברורה וידועה מראש."
+      ]
+    }
+  ],
+  "relatedLinks": [
+    { "label": "מרכז הלמידה", "href": "/learn/" },
+    { "label": "להתאמן בקראטה בבית", "href": "/learn/להתאמן-בקראטה-בבית/" },
+    { "label": "קיהון", "href": "/kihon/" },
+    { "label": "צרו קשר", "href": "/contact/" }
+  ],
+  "cta": { "label": "לתיאום שיעור ניסיון ללא עלות", "href": "/contact/" },
+  "_sourceNotes": "Substance condensed from recovered WB:20200813081025: all three recovered tips preserved (dedicated practice area with the 3×3m sizing, fixed short daily slot with the ≤20-minute recommendation, reward system incl. the written/color-table schedule advice). Title/H1 anchors preserved exactly including the source's 'בבית-' spacing before '3 טיפים'. Omitted: the punching-bag gift example (generalized to 'ציוד תרגול'), the 'מדריך טוב ישמח להמליץ על עזרים' aside, the 'אתה עובד קשה ומשלם סכום לא קטן' pricing framing (pricing unconfirmed per report §6), and the free-guide download CTA for the black-belt-timing article. Sibling link points to the home-practice article per the accepted graph; /kihon/ used as the contextual training route (basics are what a child rehearses at home). No child-development guarantees stated — advice framed as recommendations."
+}

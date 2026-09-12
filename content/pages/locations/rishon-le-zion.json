@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "route": "/karate-in-rishon-le-zion",
+  "metadata": {
+    "title": "קראטה בראשון לציון | דוג'ו שוטוקאן קראטה-דו בשיטת SKSU",
+    "description": "דוג'ו קראטה בראשון לציון בשיטת שוטוקאן קראטה-דו, בהדרכת אריה ניקר. אימונים עם דגש על משמעת, ריכוז, כבוד הדדי וביטחון עצמי — ברחוב התזמורת 17, שיעור ניסיון ללא עלות.",
+    "canonical": "/karate-in-rishon-le-zion"
+  },
+  "titleAnchor": "חוג קראטה בראשון לציון | הגנה עצמית לילדים - בשיטה ייחודית",
+  "h1": "קראטה בראשון לציון — דוג'ו שוטוקאן קראטה-דו בשיטת SKSU",
+  "breadcrumbs": [
+    { "label": "דף הבית", "href": "/" },
+    { "label": "קראטה בראשון לציון", "href": "/karate-in-rishon-le-zion" }
+  ],
+  "intro": "אין מקום טוב יותר לקבל משמעת, ביטחון עצמי וכבוד הדדי מאשר בקראטה. בדוג'ו של SKSU בראשון לציון, ברחוב התזמורת 17, לומדים קראטה בשיטת שוטוקאן לצד אסטרטגיות הגנה עצמית מעשיות — בהדרכת אריה ניקר.",
+  "sections": [
+    {
+      "heading": "כלים למשמעת, ביטחון והתמדה",
+      "body": [
+        "קראטה והגנה עצמית בשיטת S.K.S.U מלמדים הרבה מעבר לטכניקה. באימונים אנחנו שמים לעצמנו למטרה לפתח מיומנויות שמלוות אותך גם הרבה אחרי שיוצאים מהדוג'ו:"
+      ],
+      "list": [
+        "התמדה",
+        "ריכוז ותשומת לב",
+        "משמעת הנובעת מבפנים",
+        "כבוד הדדי וביטחון עצמי אמיתי"
+      ]
+    },
+    {
+      "heading": "שוטוקאן מסורתי עם הגנה עצמית מעשית",
+      "body": [
+        "האימון משלב את היסודות של שוטוקאן קראטה-דו עם תרגול מעשי של מענה הגנתי — בסביבה מבוקרת ובטוחה. כך מקבלים גם את הדרך המסורתית — עם המשמעת והדיוק שלה — וגם את הפרקטיקה של שיטות ההגנה העצמית המודרניות, בשליטה ובבטיחות."
+      ]
+    },
+    {
+      "heading": "איפה אנחנו נמצאים",
+      "body": [
+        "הדוג'ו נמצא ברחוב התזמורת 17, ראשון לציון. רוצה להתרשם בעצמך? אתה מוזמן לתאם שיעור ניסיון ללא עלות — ב-WhatsApp, בטלפון 050-473-1212 או דרך טופס יצירת הקשר."
+      ]
+    }
+  ],
+  "relatedLinks": [
+    { "label": "למה SKSU", "href": "/why-us/" },
+    { "label": "קיהון", "href": "/kihon/" },
+    { "label": "קאטות", "href": "/kata/" },
+    { "label": "קומיטה", "href": "/komita/" },
+    { "label": "תרגילי הגנה עצמית", "href": "/self-defense-exercise/" },
+    { "label": "מרכז הלמידה", "href": "/learn/" }
+  ],
+  "cta": { "label": "לתיאום שיעור ניסיון ללא עלות", "href": "/contact/" },
+  "_sourceNotes": "titleAnchor and h1 preserved exactly from WB:20191114084043, including the historical child-focused title ('הגנה עצמית לילדים') and the H1's original spacing ('וכבוד- סט') and spelling ('בטחון'). OWNER REVIEW REQUIRED: the historical title targets children/self-defense for kids while current age ranges and programme availability are unconfirmed (report §6); body copy therefore stays audience-neutral. Stale archived claims omitted entirely and not replaced: old venue (מתנ\"ס רמת אליהו, אבא הלל סילבר 2), Sun/Wed schedule and times, age groups 5-7/8-12, ₪190 price and belt-test fees, instructor איתן יריב and מנהל הספורט certification, Arie Nikar דאן 9 / international judge credential, 'מאות אלופים' organization claim, the parent testimonial ('דינה') and 'עוד המלצות' link, and all Holon references. The recovered values list (התמדה, ריכוז, משמעת מבפנים, כבוד הדדי וביטחון עצמי) is preserved but framed as teaching goals, not guaranteed outcomes. This page is the approved permanent-redirect target for /karate-in-holon (PLAN §12); copy plainly states the Rishon LeZion location and never implies a Holon class. Address, phone, instructor name, and free trial are owner-confirmed facts."
+}

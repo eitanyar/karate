@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "route": "/kihon/",
+  "metadata": {
+    "title": "קיהון | SKSU",
+    "description": "קיהון — תרגול הטכניקות הבסיסיות בקראטה: עמידות, אגרופים, בעיטות וחסימות, במקום ובהתקדמות. למה הבסיס הוא לב האימון בשוטוקאן ואיך הוא נבנה לאורך הדרגות.",
+    "canonical": "/kihon/"
+  },
+  "titleAnchor": "קיהון -",
+  "h1": "קיהון",
+  "breadcrumbs": [
+    { "label": "דף הבית", "href": "/" },
+    { "label": "קיהון", "href": "/kihon/" }
+  ],
+  "intro": "קיהון הוא תרגול הבסיס של הקראטה: עמידות, אגרופים, בעיטות וחסימות — התנועות היסודיות שכל שאר האימון נבנה עליהן. בשוטוקאן קראטה-דו הקיהון הוא לב לבו של התרגול, וכל מתאמן חוזר אליו שוב ושוב, בכל רמה.",
+  "sections": [
+    {
+      "heading": "מה מתרגלים בקיהון",
+      "body": [
+        "מיד אחרי החימום עוברים לתרגול הטכניקות הבסיסיות: עמידות, אגרופים, בעיטות ומכות — במקום או בהתקדמות. התרגול מתמקד בחזרה על הטכניקות העיקריות של כל דרגה, עד שהתנועה מדויקת, יציבה ונכונה לגוף."
+      ]
+    },
+    {
+      "heading": "למה חוזרים על הבסיס שוב ושוב",
+      "body": [
+        "'שוב את הבסיס?' — כמעט כל תלמיד קראטה שואל את השאלה הזו. אבל כמו בית שנבנה בלי יסודות, קראטה בלי בסיס איתן לא מחזיק מעמד לאורך זמן. החזרה על הקיהון היא מה שמייצר דיוק, עוצמה ושליטה — והיא הבסיס לכל מה שיבוא אחר כך: הקאטות, תרגול הקומיטה ותרגילי ההגנה העצמית."
+      ]
+    },
+    {
+      "heading": "קיהון בפעילות SKSU לאורך השנים",
+      "body": [
+        "בפעילות הארגון תועדו לאורך השנים תרגילי קיהון לדרגות המתחילים — התרגילים במקום והתרגילים בהתקדמות — וכן איפון קומיטה של תלמידים בכירים בהדגמות ובהופעות השנתיות."
+      ]
+    }
+  ],
+  "relatedLinks": [
+    { "label": "קאטות", "href": "/kata/" },
+    { "label": "קומיטה", "href": "/komita/" },
+    { "label": "תרגילי הגנה עצמית", "href": "/self-defense-exercise/" },
+    { "label": "הדוג'ו בראשון לציון", "href": "/karate-in-rishon-le-zion" },
+    { "label": "למה כל כך חשוב ללמוד את הבסיס בקראטה?", "href": "/learn/why-learn-the-basics/" }
+  ],
+  "cta": { "label": "לתיאום שיעור ניסיון ללא עלות", "href": "/contact/" },
+  "_sourceNotes": "H1 and titleAnchor preserved from WB:20191128144629; the archived <title> exposed 'קיהון -' with a dangling empty site-name suffix, kept verbatim in titleAnchor while metadata.title drops the separator and appends the documented '| SKSU' brand suffix. The archived page body consisted solely of YouTube demonstration embeds with captions ('קיהון kyu 9 – התרגילים במקום/בהתקדמות (חגורה לבנה פס זהב)', 'קיהון איפון קומיטה מופע SKSU 2017 (תלמידים בכירים)') and no prose; no media URLs are included here (media manifest out of scope). The archived demonstration subjects are recorded as historical facts in the final section, with the caption belt-level labels (kyu 9, חגורה לבנה פס זהב) deliberately kept out of the copy to avoid implying a current syllabus. Descriptive content is grounded in the recovered 8-elements article (element 3: kihon definition) and the recovered why-learn-the-basics article."
+}

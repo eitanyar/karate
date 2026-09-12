@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "route": "/learn/how-to-choose-karate-studio/",
+  "metadata": {
+    "title": "כך תבחר דוג'ו לקראטה בשלושה צעדים פשוטים | SKSU",
+    "description": "איך בוחרים סטודיו קראטה שלא תתחרט עליו? שלושה קריטריונים פשוטים: ותק ויציבות של המקום, המדריך וההכשרה שלו, והמיקום ושעות הפעילות.",
+    "canonical": "/learn/how-to-choose-karate-studio/"
+  },
+  "titleAnchor": "כך תבחר דוג'ו לקראטה בשלושה צעדים פשוטים -",
+  "h1": "כך תבחר דוג’ו לקראטה בשלושה צעדים פשוטים",
+  "breadcrumbs": [
+    { "label": "דף הבית", "href": "/" },
+    { "label": "מרכז הלמידה", "href": "/learn/" },
+    { "label": "כך תבחר דוג’ו לקראטה בשלושה צעדים פשוטים", "href": "/learn/how-to-choose-karate-studio/" }
+  ],
+  "intro": "אם אתה מעוניין לשפר את הכושר דרך אמנות לחימה, דוג'ו (מועדון קראטה) הוא מקום מצוין להתחיל בו. יש מאות סוגים וסגנונות שונים, והרבה מקומות ללמוד בהם קראטה: חלקם איכותיים יותר וחלקם פחות. ואלא אם אתה מבין בזה, עלול לצאת לך יחס לא טוב בין מחיר לתמורה. סביר להניח שתמצא עשרות מדריכי קראטה באזורך — ולא כולם מדריכים טובים. הנה שלוש דרכים לבחור נכון.",
+  "sections": [
+    {
+      "heading": "1. ניסיון וותק",
+      "body": [
+        "זה אולי נשמע מובן מאליו, אבל חשוב מאוד לדעת כמה זמן המקום פועל ולמה. הרבה מועדוני אמנויות לחימה הם כמו מסעדות: מי שפותח מסעדה מבין באוכל, אבל לא בהכרח בעסקים. אם הסטודיו חדש לגמרי, יש סיכון שיסגור במהרה; מועדון שפועל בהצלחה לאורך זמן מעיד על יציבות ועל שביעות רצון של המתאמנים."
+      ]
+    },
+    {
+      "heading": "2. המדריך",
+      "body": [
+        "מי המדריך? האם הוא מוכר בתחומו? כמה זמן הוא לומד ומלמד קראטה? המדריך עושה את כל ההבדל — למצוא מדריך טוב זה כמו למצוא מטיל זהב: קשה למצוא, אבל ברגע שמצאת, אתה רוצה להישאר איתו. שאל על ההכשרה שלו — קצת מחקר מקדים יכול להשתלם בטווח הארוך."
+      ]
+    },
+    {
+      "heading": "3. המיקום",
+      "body": [
+        "האם המועדון קרוב לבית? האם קל להגיע אליו? מה שעות הפעילות? כדאי לברר את כל הפרטים האלה מראש — אתה לא רוצה לבלות שעות בפקקים רק כדי להגיע לשיעור. מצד שני, קרוב זה טוב, אבל אם יש מדריך טוב שמלמד קצת יותר רחוק — אולי שווה להגיע במיוחד.",
+        "וזה רק קצה הקרחון. רוצה להעמיק בבחירת המדריך? כדאי לקרוא גם 'למה לשים לב במדריך או מועדון קראטה?' — ולבוא להתרשם בעצמך בשיעור ניסיון ללא עלות בדוג'ו שלנו בראשון לציון."
+      ]
+    }
+  ],
+  "relatedLinks": [
+    { "label": "מרכז הלמידה", "href": "/learn/" },
+    { "label": "למה לשים לב במדריך או מועדון קראטה?", "href": "/learn/what-to-notice-in-karate-lessons/" },
+    { "label": "הדוג'ו בראשון לציון", "href": "/karate-in-rishon-le-zion" },
+    { "label": "צרו קשר", "href": "/contact/" }
+  ],
+  "cta": { "label": "לתיאום שיעור ניסיון ללא עלות", "href": "/contact/" },
+  "_sourceNotes": "Substance condensed from recovered WB:20200813081422: all three recovered criteria preserved (studio longevity/restaurant analogy, instructor quality/gold-nugget analogy, location and logistics), plus the recovered 'קצה הקרחון' closing. Source typos normalized (דוגו'→דוג'ו, ואלא אם→ואלא אם, תריסר→עשרות per the source's own primary claim). H1 anchor uses the curly geresh (דוג’ו) exactly as the archived H1; titleAnchor preserves the archived <title> with its straight apostrophe and dangling ' -'; metadata.title appends documented '| SKSU'. Closing cross-reference preserved as sibling link to what-to-notice-in-karate-lessons (accepted graph); no price/quality or schedule claims about SKSU itself added."
+}

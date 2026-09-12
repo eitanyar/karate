@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "route": "/self-defense-exercise/",
+  "metadata": {
+    "title": "תרגילי הגנה עצמית | SKSU",
+    "description": "תרגילי הגנה עצמית בשיטת S.K.S.U — אסטרטגיות מעשיות למצבי חירום אמיתיים, מתורגלות בבטחה ובשליטה לצד יסודות השוטוקאן. איך נראה התרגול בדוג'ו.",
+    "canonical": "/self-defense-exercise/"
+  },
+  "titleAnchor": "תרגילי הגנה עצמית -",
+  "h1": "תרגילי הגנה עצמית",
+  "breadcrumbs": [
+    { "label": "דף הבית", "href": "/" },
+    { "label": "תרגילי הגנה עצמית", "href": "/self-defense-exercise/" }
+  ],
+  "intro": "ההגנה העצמית היא חלק בלתי נפרד משיטת S.K.S.U. לצד יסודות השוטוקאן קראטה-דו, אנו מתרגלים עקרונות הגנה עצמית מעשיים — בצורה מבוקרת, בטוחה ומדורגת.",
+  "sections": [
+    {
+      "heading": "מה מתרגלים",
+      "body": [
+        "תרגילי ההגנה העצמית בונים את החיבור בין הטכניקה לתרחיש: איך מגיבים להתקפה, איך שומרים על מרחק ועל איזון, ואיך משתמשים בעמידות, בחסימות ובמכות שלמדת — בצורה מבוקרת ופרקטית.",
+        "התרגול נעשה מול בן זוג או בקבוצה, לפי רמת המתאמנים, תמיד עם דגש על שליטה וכבוד הדדי."
+      ]
+    },
+    {
+      "heading": "העיקרון: שליטה עצמית קודם לכל",
+      "body": [
+        "הגנה עצמית אפקטיבית מתחילה בהחלטות, לא רק בטכניקות: מודעות לסביבה, הימנעות מעימות כשאפשר, ושימוש ביכולת רק כשצריך. תרגול עקרונות הקראטה והשליטה העצמית מסייע לשמור על קור רוח וריכוז במצבי לחץ."
+      ]
+    },
+    {
+      "heading": "הגנה עצמית בפעילות SKSU לאורך השנים",
+      "body": [
+        "בפעילות הארגון תועדו לאורך השנים הדגמות של תרגילי הגנה עצמית — בהן בהופעה השנתית של הארגון ב-2017 — לצד תרגילי הקיהון, הקאטה והקומיטה."
+      ]
+    }
+  ],
+  "relatedLinks": [
+    { "label": "קיהון", "href": "/kihon/" },
+    { "label": "קאטות", "href": "/kata/" },
+    { "label": "קומיטה", "href": "/komita/" },
+    { "label": "הדוג'ו בראשון לציון", "href": "/karate-in-rishon-le-zion" },
+    { "label": "10 סיבות להתחיל ללמוד קראטה", "href": "/learn/10-reasons-to-learn-karate/" }
+  ],
+  "cta": { "label": "לתיאום שיעור ניסיון ללא עלות", "href": "/contact/" },
+  "_sourceNotes": "titleAnchor 'תרגילי הגנה עצמית -' preserved from WB:20191128144404 with dangling suffix; metadata.title appends documented '| SKSU'. The archived body was a 'תוכן רלוונטי יעלה בקרוב' notice plus one YouTube embed ('תרגילי הגנה עצמית, מופע שנתי SKSU 2017') — recorded as a historical fact; no media URLs (manifest out of scope). Core framing grounded in recovered sources: the why-us capture ('לימוד אסטרטגיות הגנה עצמית אפקטיביות עם פיתוח האנרגיה הפנימית... בשליטה עצמית על פי עקרונות הקראטה המסורתי') and the rishon-le-zion capture ('השילוב בין הקראטה בשיטת שוטוקאן לבין שיטות הגנה עצמית במצבי חירום, ברחוב'). Language kept non-medical, non-guaranteed: no effectiveness promises, no street-violence scenarios beyond what the archive states, no claims about who the exercises suit."
+}

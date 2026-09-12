@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "route": "/why-us/",
+  "metadata": {
+    "title": "מאמינים בך ועוזרים לך לממש את הפוטנציאל שבך, ברמה הגבוהה ביותר | SKSU",
+    "description": "הגישה של ארגון S.K.S.U: קידום האדם באמצעות הקראטה, הכשרה המשלבת שוטוקאן מסורתי עם אסטרטגיות הגנה עצמית, וקוד אתי של אמינות, נאמנות וכבוד הדדי.",
+    "canonical": "/why-us/"
+  },
+  "titleAnchor": "מאמינים בך ועוזרים לך לממש את הפוטנציאל שבך, ברמה הגבוהה ביותר -",
+  "h1": "מאמינים בך ועוזרים לך לממש את הפוטנציאל שבך, ברמה הגבוהה ביותר",
+  "breadcrumbs": [
+    { "label": "דף הבית", "href": "/" },
+    { "label": "למה SKSU", "href": "/why-us/" }
+  ],
+  "intro": "בארגון SKSU שמנו לעצמנו למטרה לקדם את המתאמן דרך הקראטה, בדגש על הקניית ערכים ומשמעת עצמית. אנחנו כאן כדי לעזור לך להתקדם ולהפיק מעצמך את המיטב.",
+  "sections": [
+    {
+      "heading": "ההכשרה המשולבת שנותנת לך יותר",
+      "body": [
+        "אנחנו מאמינים בחדשנות, בחשיבה חופשית וביעילות — ומביאים אותן לידי ביטוי בהכשרה שלנו. היא משלבת שיטות אימון מודרניות עם לימוד אסטרטגיות הגנה עצמית, ריכוז ומשמעת עצמית. הכל על פי עקרונות הקראטה המסורתי: שוטוקאן קראטה-דו."
+      ]
+    },
+    {
+      "heading": "מצוינות, קוד אתי וכבוד הדדי",
+      "body": [
+        "אנחנו מחויבים למצוינות בסטנדרטים הגבוהים ביותר וללמידה מתמשכת ונבנית. כל מי שפועל בארגון מודרך על ידי קוד אתי ומקצועי, מתוך שמירה על כבודו של כל אדם והקפדה מלאה על אופי הארגון.",
+        "הקו המנחה שלנו פשוט: אמינות, נאמנות וכבוד הדדי."
+      ]
+    },
+    {
+      "heading": "בוא להתרשם בעצמך",
+      "body": [
+        "אתה מוזמן ליצור קשר ולתאם שיעור היכרות בדוג'ו בראשון לציון — הדרך הטובה ביותר להכיר את הדרך שלנו היא מהמזרן."
+      ]
+    }
+  ],
+  "relatedLinks": [
+    { "label": "קיהון", "href": "/kihon/" },
+    { "label": "קאטות", "href": "/kata/" },
+    { "label": "קומיטה", "href": "/komita/" },
+    { "label": "תרגילי הגנה עצמית", "href": "/self-defense-exercise/" },
+    { "label": "הדוג'ו בראשון לציון", "href": "/karate-in-rishon-le-zion" },
+    { "label": "מרכז הלמידה", "href": "/learn/" }
+  ],
+  "cta": { "label": "לתיאום שיעור ניסיון ללא עלות", "href": "/contact/" },
+  "_sourceNotes": "Body condensed from the recovered capture WB:20191128144447; the mission statement, combined-training paragraph, ethical code, and closing 'שיעור היכרות' invitation are recovered substance. The archived page embedded seminar YouTube videos; no media references are included here (media manifest is out of scope for this task). titleAnchor preserves the archived <title> exactly, including its dangling empty site-name suffix ' -'; metadata.title drops the dangling separator and appends the documented brand suffix '| SKSU' (not presented as historical). No schedule, pricing, age, or credential claims added."
+}

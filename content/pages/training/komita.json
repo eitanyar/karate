@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "route": "/komita/",
+  "metadata": {
+    "title": "קומיטה | SKSU",
+    "description": "קומיטה בקראטה — תרגול מול בן זוג: איפון קומיטה, ג'יו איפון וקרב חופשי בשליטה מלאה. איך עובדים בזוגות, למה התרגול בטוח ומה הוא מוסיף לאימון.",
+    "canonical": "/komita/"
+  },
+  "titleAnchor": "קומיטה -",
+  "h1": "קומיטה",
+  "breadcrumbs": [
+    { "label": "דף הבית", "href": "/" },
+    { "label": "קומיטה", "href": "/komita/" }
+  ],
+  "intro": "קומיטה הוא התרגול מול בן זוג: ההזדמנות ליישם את הטכניקות שלמדת בקיהון ובקאטה מול יריב אמיתי — בשליטה מלאה, בבטיחות ובהדרגה, לפי רמת המתאמן.",
+  "sections": [
+    {
+      "heading": "למה מתאמנים בקומיטה",
+      "body": [
+        "התרגול עם בן זוג הוא בדרך כלל החלק האהוב בשיעור: הלומדים מיישמים את הטכניקות מול יריב ומתרגלים תגובות לסוגים שונים של התקפות. התרגול לא מוגבל לעבודה עם בן זוג אחד — לפעמים מתאמנים מול מספר יריבים או בקבוצה, בהתאם ליצירתיות המדריך ולרמת התלמידים."
+      ]
+    },
+    {
+      "heading": "סוגי תרגול הקומיטה",
+      "body": [
+        "הקומיטה נבנה בשלבים, מהמוגדר אל החופשי:"
+      ],
+      "list": [
+        "איפון קומיטה — התקפה מוגדרת מראש ותגובה מתורגלת, צעד אחרי צעד.",
+        "ג'יו איפון קומיטה — שלב ביניים: המתקיף ידוע, אבל התזמון פחות.",
+        "ג'יו קומיטה — תרגול חופשי ומבוקר, בשליטה ובכבוד הדדי."
+      ]
+    },
+    {
+      "heading": "קומיטה בפעילות SKSU לאורך השנים",
+      "body": [
+        "בפעילות הארגון תועדו לאורך השנים תרגילי קומיטה בזוגות בסמינרים — בהם תרגילי התחמקות, ג'יו איפון קומיטה ואיפון קומיטה של תלמידים בכירים בהופעה השנתית, וכן הדגמות קרבות באירועי ארגון."
+      ]
+    }
+  ],
+  "relatedLinks": [
+    { "label": "קיהון", "href": "/kihon/" },
+    { "label": "קאטות", "href": "/kata/" },
+    { "label": "תרגילי הגנה עצמית", "href": "/self-defense-exercise/" },
+    { "label": "הדוג'ו בראשון לציון", "href": "/karate-in-rishon-le-zion" },
+    { "label": "8 היסודות העיקריים עליהם נבנה שיעור קראטה טיפוסי", "href": "/learn/8-elements-in-karate-lessons/" }
+  ],
+  "cta": { "label": "לתיאום שיעור ניסיון ללא עלות", "href": "/contact/" },
+  "_sourceNotes": "Route preserves the historical slug typo '/komita/' exactly per binding decision (PLAN §2); on-page H1/copy use the correct Hebrew spelling קומיטה as captured in the verified title anchor. titleAnchor 'קומיטה -' preserved from WB:20191128144510 with its dangling suffix; metadata.title appends documented '| SKSU'. The archived body was a 'תוכן רלוונטי יעלה בקרוב' notice plus four YouTube embeds (סמינר SKSU תרגילי קומיטה בזוגות – התחמקות; קיהון איפון קומיטה מופע SKSU 2017; הדגמה של 6 קרבות (קומיטה) במתנ\"ס אשלים; תרגילי ג'יאו היפון קומיטה) — recorded as historical facts in the final section; no media URLs (manifest out of scope). Kihon-partner-practice definition grounded in the recovered 8-elements article (element 6); the ippon/jiyu-ippon/jiyu kumite ladder is standard shotokan terminology already evidenced in the archived embed captions, phrased without schedule, level-restriction, or safety-guarantee claims."
+}

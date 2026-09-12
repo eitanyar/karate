@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "route": "/kata/",
+  "metadata": {
+    "title": "קאטות | SKSU",
+    "description": "קאטות בקראטה שוטוקאן — סדרות התנועות שנלמדות בעל-פה ומלוות כל מבחן חגורה: מה עומד מאחורי התבנית, אילו קאטות מתרגלים ואיך הן הופכות ליישום של הגנה עצמית.",
+    "canonical": "/kata/"
+  },
+  "titleAnchor": "קאטות -",
+  "h1": "קאטות",
+  "breadcrumbs": [
+    { "label": "דף הבית", "href": "/" },
+    { "label": "קאטות", "href": "/kata/" }
+  ],
+  "intro": "קאטה היא סדרת תנועות מוגדרת מראש שהמתאמן לומד בעל-פה — תבנית שלמה של טכניקות, כיוונים ומקצבים, שמאחוריה רעיון מרכזי אחד. הקאטות הן חלק עיקרי באימון השוטוקאן וגם בכל מבחן חגורה.",
+  "sections": [
+    {
+      "heading": "מהי קאטה ולמה מתאמנים עליה",
+      "body": [
+        "כל קאטה מורכבת מתבנית תנועות שמאחוריה רעיון מרכזי, ולעתים קרובות משווים אותה לריקוד. אבל לקאטות מתלווים גם תרגילים שמדגימים כיצד מיישמים את הטכניקות מול יריב בתרחיש של הגנה עצמית — וכך התבנית הופכת לתרגול חי.",
+        "הקאטות עוזרות למתאמן להבין איך הטכניקות השונות מתחברות יחד לסט אחיד, והן חלק מרכזי בכל מבחן חגורה."
+      ]
+    },
+    {
+      "heading": "הקאטות בדרך השוטוקאן",
+      "body": [
+        "בשוטוקאן מתחילים מקאטות בסיס כמו טאיקיוקו שודאן והיאן שודאן, ומתקדמים בהדרגה לקאטות ארוכות ומורכבות יותר. בפעילות ארגון SKSU לאורך השנים תועדו גם הדגמות של קאטות מתקדמות — בהן גוז'ושיו, שהדגים אריה ניקר, וקאטת ג'ין שנלמדה בסמינר ארגון ב-2014."
+      ]
+    },
+    {
+      "heading": "איך בנוי תרגול הקאטה",
+      "body": [
+        "חזרה מדויקת על התבנית, תשומת לב לעמידות ולכיוונים, מקצב ונשימה נכונים — והבנה של הרעיון שמאחורי כל תנועה. את הקאטה לומדים שלב אחרי שלב בשיעור, ומחדדים אותה גם בתרגול עצמי בבית."
+      ]
+    }
+  ],
+  "relatedLinks": [
+    { "label": "קיהון", "href": "/kihon/" },
+    { "label": "קומיטה", "href": "/komita/" },
+    { "label": "תרגילי הגנה עצמית", "href": "/self-defense-exercise/" },
+    { "label": "הדוג'ו בראשון לציון", "href": "/karate-in-rishon-le-zion" },
+    { "label": "8 היסודות העיקריים עליהם נבנה שיעור קראטה טיפוסי", "href": "/learn/8-elements-in-karate-lessons/" }
+  ],
+  "cta": { "label": "לתיאום שיעור ניסיון ללא עלות", "href": "/contact/" },
+  "_sourceNotes": "H1 and titleAnchor preserved from WB:20191128144533; archived <title> exposed 'קאטות -' (dangling empty site-name suffix kept verbatim in titleAnchor; metadata.title uses '| SKSU' as documented replacement). The archived body was five YouTube embeds with captions: טאיקיוקו שודאן (kyu 9, חגורה לבנה פס זהב), היאן שודאן (kyu 8, חגורה צהובה), 'שיהן אריה ניקר – קאטה גוז׳ושיו', סמינר 29.11.14 קאטת ג'ין, והיאן גודאן ('קאטה משפחתית'). Kata names, the 2014 seminar, and Arie Nikar's Gojushiho demonstration are preserved as archived historical facts; the honorific 'שיהן' and the belt-level mappings were kept out of the copy because instructor credentials and the current syllabus are unconfirmed (report §6). No media URLs (manifest out of scope). Definition and practice content grounded in the recovered 8-elements article (element 4)."
+}

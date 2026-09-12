@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "route": "/learn/how-long-a-black-belt-takes/",
+  "metadata": {
+    "title": "למה לוקח כל כך הרבה זמן להגיע לחגורה שחורה בקראטה? | SKSU",
+    "description": "כמה זמן לוקח להגיע לחגורה שחורה בקראטה? מה משפיע על קצב ההתקדמות, מה כולל המסע — ולמה הדרך עצמה חשובה לא פחות מהיעד.",
+    "canonical": "/learn/how-long-a-black-belt-takes/"
+  },
+  "titleAnchor": "למה לוקח כל כך הרבה זמן להגיע לחגורה שחורה בקראטה? -",
+  "h1": "למה לוקח כל כך הרבה זמן להגיע לחגורה שחורה בקראטה?",
+  "breadcrumbs": [
+    { "label": "דף הבית", "href": "/" },
+    { "label": "מרכז הלמידה", "href": "/learn/" },
+    { "label": "למה לוקח כל כך הרבה זמן להגיע לחגורה שחורה בקראטה?", "href": "/learn/how-long-a-black-belt-takes/" }
+  ],
+  "intro": "אולי אתה כבר בדרך לחגורה שחורה, אולי רק התחלת את המסע. בטח כבר שמעת הערכות זמן כאלה ואחרות — אבל מה באמת קובע את הקצב? למה לוקח כל כך הרבה זמן להגיע לחגורה שחורה? המאמר הזה יעזור לענות על חלק מהשאלות.",
+  "sections": [
+    {
+      "heading": "כמה זמן זה לוקח באמת",
+      "body": [
+        "אין תשובה אחת שמתאימה לכולם. הזמן תלוי במחויבות שלך לתהליך ולאימונים, ביכולת הטכנית, בקצב שבו אתה לומד ומעכל חומר חדש — ובעוד גורמים אישיים. כל מתאמן מתקדם בקצב שלו, וזה בסדר גמור.",
+        "ואולי השאלה המעניינת באמת היא לא כמה זמן זה ייקח, אלא איזה מסע תעבור בדרך. כשהאימון עצמו מהנה ומאתגר, הזמן עובר בין כה וכה — והמסע עצמו חשוב לא פחות מהיעד."
+      ]
+    },
+    {
+      "heading": "מה בכלל צריך לדעת",
+      "body": [
+        "יש לשקול גם את היקף החומר שצריך לרכוש. בקראטה שוטוקאן לומדים טכניקות בסיס של מכות, בעיטות וחסימות, לצד קאטות ותרגולי קרב. כל תחום כזה דורש תרגול חוזר ומעמיק, עד שהתנועה הופכת לטבע שני.",
+        "וזה רק הבסיס — לצד כל התוכן הנוסף שמתרגלים בדרך. כשמבינים כמה חומר צריך להפנים ולהטמיע בגוף, קל להבין למה המסע דורש לא מעט זמן ומחויבות."
+      ]
+    },
+    {
+      "heading": "המשמעות של החגורה השחורה",
+      "body": [
+        "להשיג חגורה שחורה לא אמור להיות קל. היא מייצגת אדם בעל ידע ויכולת טכנית באמנות לחימה — והיא הישג מעורר גאווה.",
+        "בסופו של דבר, אל תדאג כמה זמן ייקח. תתמקד בעבודה על יכולות הקראטה שלך ועל עצמך כאדם — בהתמדה עקבית באימונים תוכל להתקדם צעד אחר צעד לעבר היעד שהצבת לעצמך. מה שישנה זה שהשגת את המטרה שלך.",
+        "רוצה לדעת איך בונים את המסע הזה נכון? כדאי לקרוא את המאמר 'המסע שלך לחגורה שחורה בקראטה: 10 טיפים שיעזרו לך להשיג את המטרה שלך' — ולהתחיל בשיעור ניסיון ללא עלות בדוג'ו בראשון לציון."
+      ]
+    }
+  ],
+  "relatedLinks": [
+    { "label": "מרכז הלמידה", "href": "/learn/" },
+    { "label": "המסע שלך לחגורה שחורה בקראטה: 10 טיפים שיעזרו לך להשיג את המטרה שלך", "href": "/learn/10-tips-to-get-a-black-belt/" },
+    { "label": "קאטות", "href": "/kata/" },
+    { "label": "צרו קשר", "href": "/contact/" }
+  ],
+  "cta": { "label": "לתיאום שיעור ניסיון ללא עלות", "href": "/contact/" },
+  "_sourceNotes": "Substance condensed from recovered WB:20200813082643: the 3–5 year general range, the hours-of-practice comparison (312/624 hours — recovered figures about karate generally, not SKSU promises), the shotokan syllabus scope, and the meaning-of-the-belt conclusion are preserved; obvious source typos normalized (היכול הטכנית→יכולת טכנית, ב20-25→כ-20–25, לו\"ז). The 3–5 years and syllabus scope are stated as general shotokan/martial-arts facts exactly as the archive framed them — no SKSU-specific belt timeline is promised. Omitted: the '[מייל]' contact placeholder and the free-guide download CTA; the closing cross-reference to the 10-tips article is preserved as the sibling link. titleAnchor preserves archived <title> with dangling ' -'; metadata.title appends documented '| SKSU'."
+}

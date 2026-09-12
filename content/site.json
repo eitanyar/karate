@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "canonicalHost": "https://karate.11il.co",
+  "organization": {
+    "name": "SKSU",
+    "fullName": "SKSU Shotokan Karate-Do",
+    "style": "שוטוקאן קראטה-דו",
+    "instructor": "אריה ניקר",
+    "tagline": "קראטה והגנה עצמית בשיטת SKSU",
+    "city": "ראשון לציון"
+  },
+  "location": {
+    "address": "התזמורת 17, ראשון לציון",
+    "city": "ראשון לציון"
+  },
+  "phone": {
+    "display": "050-473-1212",
+    "telHref": "tel:+972504731212",
+    "whatsappHref": "https://wa.me/972504731212"
+  },
+  "trialOffer": {
+    "label": "שיעור ניסיון ללא עלות"
+  },
+  "contactChannels": [
+    { "id": "whatsapp", "label": "פנייה ב-WhatsApp", "href": "https://wa.me/972504731212", "external": true },
+    { "id": "call", "label": "התקשרות ל-050-473-1212", "href": "tel:+972504731212" },
+    { "id": "form", "label": "טופס יצירת קשר", "href": "/contact/" }
+  ],
+  "navigation": {
+    "header": [
+      { "label": "דף הבית", "href": "/" },
+      { "label": "למה SKSU", "href": "/why-us/" },
+      {
+        "label": "אימונים",
+        "children": [
+          { "label": "קיהון", "href": "/kihon/" },
+          { "label": "קאטות", "href": "/kata/" },
+          { "label": "קומיטה", "href": "/komita/" },
+          { "label": "תרגילי הגנה עצמית", "href": "/self-defense-exercise/" }
+        ]
+      },
+      { "label": "מרכז הלמידה", "href": "/learn/" },
+      { "label": "הדוג'ו בראשון לציון", "href": "/karate-in-rishon-le-zion" },
+      { "label": "צרו קשר", "href": "/contact/" }
+    ],
+    "headerCta": { "label": "לשיעור ניסיון ללא עלות", "href": "/contact/" },
+    "footer": [
+      { "label": "דף הבית", "href": "/" },
+      { "label": "למה SKSU", "href": "/why-us/" },
+      { "label": "מרכז הלמידה", "href": "/learn/" },
+      { "label": "קראטה בראשון לציון", "href": "/karate-in-rishon-le-zion" },
+      { "label": "צרו קשר", "href": "/contact/" },
+      { "label": "מדיניות פרטיות", "href": "/privacy" },
+      { "label": "הצהרת נגישות", "href": "/accessibility" }
+    ]
+  },
+  "_sourceNotes": "Confirmed facts only (PLAN §12 owner decisions + brief 02): SKSU Shotokan Karate-Do; instructor Arie Nikar; Rishon LeZion focus; address התזמורת 17, ראשון לציון; phone 050-473-1212; free trial offer; tagline recovered from the verified archived homepage H1 (WB:20191128144038). WhatsApp/tel hrefs follow the current app source (app/trial-form.tsx, app/contact/page.tsx) and the owner conversion contract (PLAN §12: WhatsApp deep link, genuine contact form, click-to-call). Navigation destinations follow PLAN §3 and the accepted internal-link graph. Deliberately absent because unconfirmed (report §6): class schedule, age ranges, pricing, instructor credentials, response times, CRM/callback behavior, Holon serviceability."
+}

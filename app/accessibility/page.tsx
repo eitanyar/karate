@@ -1,0 +1,5 @@
+import Link from "next/link";
+import { SiteFooter } from "../_components/site-footer";
+import { SiteHeader } from "../_components/site-header";
+export const metadata = { title: "הצהרת נגישות | SKSU", robots: { index: false, follow: true } };
+export default function Accessibility() { return <><SiteHeader currentPath="/accessibility" /><main id="content" className="legal-page"><div className="legal-content"><Link className="back" href="/">← חזרה לדף הבית</Link><h1>הצהרת נגישות</h1><p className="legal-lead">אנו פועלים כדי שהאתר יהיה נגיש ככל האפשר לכלל המשתמשים.</p><h2>מה עשינו באתר?</h2><ul><li>האתר מותאם לתצוגה במובייל ולניווט במקלדת.</li><li>נבחרו ניגודיות צבעים, מבנה כותרות וקישורים ברורים.</li><li>לתמונות בעלות משמעות תוכנית ניתן טקסט חלופי.</li><li>ניתן להגדיל את התצוגה בדפדפן ללא פגיעה מהותית בתוכן.</li></ul><h2>נתקלתם בקושי?</h2><p>נשמח לקבל פנייה ב-WhatsApp במספר 050-473-1212 עם תיאור הבעיה, הדף שבו נתקלתם בה ודרך התקשרות. נעשה מאמץ לתת מענה בהקדם.</p></div></main><SiteFooter /></>; }
