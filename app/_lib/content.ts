@@ -23,7 +23,7 @@ export type PublicPage = Omit<RawPage, "titleAnchor" | "_sourceNotes">;
 export type SiteContent = {
   schemaVersion: number;
   canonicalHost: string;
-  organization: { name: string; fullName: string; style: string; instructor: string; tagline: string; city: string };
+  organization: { name: string; fullName: string; style: string; instructor: string; instructorCredentials: string; tagline: string; city: string };
   location: { address: string; city: string };
   phone: { display: string; telHref: string; whatsappHref: string };
   trialOffer: { label: string };
