@@ -62,12 +62,20 @@ test("homepage replaces its logo-only hero with the approved primary video", () 
   assert.equal(hero.includes("VideoEmbed"), true);
 });
 
-test("all five mapped content routes render media through the shared content seam", () => {
+test("non-Rishon mapped routes retain VideoEmbed while Rishon renders only the approved brochure", () => {
   const renderer = source("app/_components/content-page.tsx");
+  const contentRoutes = Object.keys(expected).filter((route) => route !== "/");
+  const nonRishonRoutes = contentRoutes.filter((route) => route !== "/karate-in-rishon-le-zion");
   assert.match(renderer, /getVideosForRoute\(page\.route\)/);
-  assert.match(renderer, /<VideoEmbed/);
-  for (const route of Object.keys(expected).filter((route) => route !== "/")) {
+  assert.match(renderer, /const isRishonBrochureRoute = page\.route === "\/karate-in-rishon-le-zion"/);
+  assert.match(renderer, /isRishonBrochureRoute \? <figure className="route-brochure"><Image src="\/assets\/sksu-school-flyer-20260916\.webp" width=\{1021\} height=\{1597\} alt=""/);
+  const conditional = renderer.match(/\{isRishonBrochureRoute \? (?<brochure>[\s\S]*?) : (?<videoGallery>videos\.length > 0 && [\s\S]*?)\}<nav className="related-links"/);
+  assert.ok(conditional);
+  assert.equal(conditional.groups.brochure.includes("VideoEmbed"), false);
+  assert.match(conditional.groups.videoGallery, /<VideoEmbed/);
+  for (const route of nonRishonRoutes) {
     const segment = route.split("/").filter(Boolean).at(-1);
     assert.ok(fs.existsSync(path.join("app", segment, "page.tsx")));
   }
+  assert.ok(fs.existsSync("app/karate-in-rishon-le-zion/page.tsx"));
 });

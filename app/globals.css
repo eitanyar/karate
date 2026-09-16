@@ -91,6 +91,8 @@ img { max-inline-size: 100%; }
 .page-sections p { margin: 0 0 13px; }
 .page-sections ul { margin: 0; padding-inline-start: 24px; }
 .video-gallery { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px; padding-block: 10px clamp(40px, 6vw, 80px); }
+.route-brochure { display: flex; justify-content: center; margin: 0; padding-block: 10px clamp(40px, 6vw, 80px); }
+.route-brochure img { inline-size: 100%; max-inline-size: 620px; block-size: auto; object-fit: contain; }
 .related-links { padding-block: 28px; border-block-start: 1px solid #c8bfae; }
 .related-links a, .back { color: #765315; font-weight: 700; }
 .trial-cta { margin-block: 26px; }
